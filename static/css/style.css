@@ -140,3 +140,7 @@ body {
     background: transparent;
     border: none;
 }
+
+ul > li {
+    list-style-type: none;
+}
